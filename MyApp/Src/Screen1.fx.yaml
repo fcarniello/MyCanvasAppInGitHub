@@ -53,13 +53,13 @@ Screen1 As screen:
             ZIndex: =3
 
     Label1 As label:
-        Text: ="Text"
+        Text: ="Type in text here"
         X: =100
         Y: =60
         ZIndex: =3
 
     Button1 As button:
-        Text: ="Button"
+        Text: ="Click Me!"
         X: =414
         Y: =60
         ZIndex: =4
