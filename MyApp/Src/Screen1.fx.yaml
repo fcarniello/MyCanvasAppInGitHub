@@ -52,3 +52,15 @@ Screen1 As screen:
             Y: =Title1.Y + Title1.Height + 8
             ZIndex: =3
 
+    Label1 As label:
+        Text: ="Text"
+        X: =60
+        Y: =60
+        ZIndex: =3
+
+    Button1 As button:
+        Text: ="Button"
+        X: =332
+        Y: =60
+        ZIndex: =4
+
