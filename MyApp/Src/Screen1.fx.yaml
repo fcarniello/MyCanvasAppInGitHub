@@ -59,7 +59,7 @@ Screen1 As screen:
         ZIndex: =3
 
     Button1 As button:
-        Text: ="Click"
+        Text: ="Click Me!"
         X: =414
         Y: =60
         ZIndex: =4
