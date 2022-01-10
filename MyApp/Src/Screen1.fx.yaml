@@ -54,13 +54,13 @@ Screen1 As screen:
 
     Label1 As label:
         Text: ="Text"
-        X: =60
+        X: =100
         Y: =60
         ZIndex: =3
 
     Button1 As button:
         Text: ="Button"
-        X: =332
+        X: =414
         Y: =60
         ZIndex: =4
 
